@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\Четные числа N\obj\Debug\net6.0\Четные числа N.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Четные числа N\obj\Debug\net6.0\Четные числа N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Четные числа N\obj\Debug\net6.0\Четные числа N.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Четные числа N\obj\Debug\net6.0\Четные числа N.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Четные числа N\obj\Debug\net6.0\Четные числа N.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Четные числа N\bin\Debug\net6.0\Четные числа N.exe
+C:\Users\User\Desktop\C#\Четные числа N\bin\Debug\net6.0\Четные числа N.deps.json
+C:\Users\User\Desktop\C#\Четные числа N\bin\Debug\net6.0\Четные числа N.runtimeconfig.json
+C:\Users\User\Desktop\C#\Четные числа N\bin\Debug\net6.0\Четные числа N.dll
+C:\Users\User\Desktop\C#\Четные числа N\bin\Debug\net6.0\ref\Четные числа N.dll
+C:\Users\User\Desktop\C#\Четные числа N\bin\Debug\net6.0\Четные числа N.pdb
+C:\Users\User\Desktop\C#\Четные числа N\obj\Debug\net6.0\Четные числа N.dll
+C:\Users\User\Desktop\C#\Четные числа N\obj\Debug\net6.0\ref\Четные числа N.dll
+C:\Users\User\Desktop\C#\Четные числа N\obj\Debug\net6.0\Четные числа N.pdb
+C:\Users\User\Desktop\C#\Четные числа N\obj\Debug\net6.0\Четные числа N.genruntimeconfig.cache
