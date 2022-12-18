@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\Четное\нечетное\bin\Debug\net6.0\нечетное.exe
+C:\Users\User\Desktop\C#\Четное\нечетное\bin\Debug\net6.0\нечетное.deps.json
+C:\Users\User\Desktop\C#\Четное\нечетное\bin\Debug\net6.0\нечетное.runtimeconfig.json
+C:\Users\User\Desktop\C#\Четное\нечетное\bin\Debug\net6.0\нечетное.dll
+C:\Users\User\Desktop\C#\Четное\нечетное\bin\Debug\net6.0\ref\нечетное.dll
+C:\Users\User\Desktop\C#\Четное\нечетное\bin\Debug\net6.0\нечетное.pdb
+C:\Users\User\Desktop\C#\Четное\нечетное\obj\Debug\net6.0\нечетное.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Четное\нечетное\obj\Debug\net6.0\нечетное.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Четное\нечетное\obj\Debug\net6.0\нечетное.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Четное\нечетное\obj\Debug\net6.0\нечетное.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Четное\нечетное\obj\Debug\net6.0\нечетное.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Четное\нечетное\obj\Debug\net6.0\нечетное.dll
+C:\Users\User\Desktop\C#\Четное\нечетное\obj\Debug\net6.0\ref\нечетное.dll
+C:\Users\User\Desktop\C#\Четное\нечетное\obj\Debug\net6.0\нечетное.pdb
+C:\Users\User\Desktop\C#\Четное\нечетное\obj\Debug\net6.0\нечетное.genruntimeconfig.cache
