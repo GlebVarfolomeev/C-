@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\MaxOfThree\bin\Debug\net6.0\MaxOfThree.exe
+C:\Users\User\Desktop\C#\MaxOfThree\bin\Debug\net6.0\MaxOfThree.deps.json
+C:\Users\User\Desktop\C#\MaxOfThree\bin\Debug\net6.0\MaxOfThree.runtimeconfig.json
+C:\Users\User\Desktop\C#\MaxOfThree\bin\Debug\net6.0\MaxOfThree.dll
+C:\Users\User\Desktop\C#\MaxOfThree\bin\Debug\net6.0\ref\MaxOfThree.dll
+C:\Users\User\Desktop\C#\MaxOfThree\bin\Debug\net6.0\MaxOfThree.pdb
+C:\Users\User\Desktop\C#\MaxOfThree\obj\Debug\net6.0\MaxOfThree.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\MaxOfThree\obj\Debug\net6.0\MaxOfThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\MaxOfThree\obj\Debug\net6.0\MaxOfThree.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\MaxOfThree\obj\Debug\net6.0\MaxOfThree.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\MaxOfThree\obj\Debug\net6.0\MaxOfThree.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\MaxOfThree\obj\Debug\net6.0\MaxOfThree.dll
+C:\Users\User\Desktop\C#\MaxOfThree\obj\Debug\net6.0\ref\MaxOfThree.dll
+C:\Users\User\Desktop\C#\MaxOfThree\obj\Debug\net6.0\MaxOfThree.pdb
+C:\Users\User\Desktop\C#\MaxOfThree\obj\Debug\net6.0\MaxOfThree.genruntimeconfig.cache
